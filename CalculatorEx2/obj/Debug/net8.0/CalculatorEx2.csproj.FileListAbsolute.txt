@@ -1,0 +1,14 @@
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\bin\Debug\net8.0\CalculatorEx2.exe
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\bin\Debug\net8.0\CalculatorEx2.deps.json
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\bin\Debug\net8.0\CalculatorEx2.runtimeconfig.json
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\bin\Debug\net8.0\CalculatorEx2.dll
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\bin\Debug\net8.0\CalculatorEx2.pdb
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\obj\Debug\net8.0\CalculatorEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\obj\Debug\net8.0\CalculatorEx2.AssemblyInfoInputs.cache
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\obj\Debug\net8.0\CalculatorEx2.AssemblyInfo.cs
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\obj\Debug\net8.0\CalculatorEx2.csproj.CoreCompileInputs.cache
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\obj\Debug\net8.0\CalculatorEx2.dll
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\obj\Debug\net8.0\refint\CalculatorEx2.dll
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\obj\Debug\net8.0\CalculatorEx2.pdb
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\obj\Debug\net8.0\CalculatorEx2.genruntimeconfig.cache
+C:\Users\Artem\RiderProjects\CalculatorEx2\CalculatorEx2\obj\Debug\net8.0\ref\CalculatorEx2.dll
